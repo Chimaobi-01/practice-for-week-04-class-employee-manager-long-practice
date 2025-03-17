@@ -52,4 +52,5 @@ describe('The calculateBonus(multiplier) method:', () => {
             });
         });
     });
+    
 });
